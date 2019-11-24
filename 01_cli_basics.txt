@@ -1,0 +1,5 @@
+    LINUX CLI [TERMINAL]
+pwd     - working directory
+ls      - list file/folders
+cd < >  - to go to a folder
+cd ..   - go back

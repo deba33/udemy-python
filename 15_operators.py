@@ -1,0 +1,8 @@
+print(2 == 2)
+print(2 == 1)
+print('Hello' == "hello")
+print(2.0 == 2)
+print(3 != 3)
+print(4 == 7)
+print(9 < 0)
+print(19 >= 89)
