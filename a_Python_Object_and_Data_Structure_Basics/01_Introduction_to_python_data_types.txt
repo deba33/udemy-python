@@ -1,0 +1,9 @@
+Name               | Type       | Description
+Integers           | int        | Whole numbers:3, 24, 200
+Floating Point     | float      | Numbers with Decimal point: 2.3, 4.6, 2.0
+Strings            | str        | Ordered sequence of characters: "hello", "2000"
+Lists              | list       | Ordered sequence of objects:[10,"hj",3.78]
+Dictionaries       | dict       | Unordered Key:Value pairs:{"key1":"value0","name":"Deba"}
+Tuples             | tup        | Ordered immutable sequence of objects:(10,"hello",90.8)
+Sets               | set        | Unordered collection of unique objects:{"a","b"}
+Booleans           | bool       | Logical value indicating True or False
