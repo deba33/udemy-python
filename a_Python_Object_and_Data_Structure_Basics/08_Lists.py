@@ -7,6 +7,13 @@ print(my_list_a + my_list_b)
 
 my_list_b[0] = "STRING"
 
+'''
+variable = ["Data","String"]
+variable[0] = 50   ✔
+
+Because, Lists in Python are not immutable
+'''
+
 print(my_list_b)
 
 # .append and .pop
