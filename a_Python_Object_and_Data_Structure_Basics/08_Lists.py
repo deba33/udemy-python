@@ -39,5 +39,8 @@ num_list.sort()
 print(new_list)
 print(num_list)
 
+new_list.reverse()
 num_list.reverse()
+
+print(new_list)
 print(num_list)
