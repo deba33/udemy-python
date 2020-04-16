@@ -1,0 +1,17 @@
+Object Oriented Programming(OOP) allows programmers to create their own objects that have methods and attributes.
+
+These methods act as functions that use information about the object, as well as the object itself to return results, or change the current object.
+
+In general, OOP allows us to create code that is repeatable and orgaized.
+
+Syntax:
+
+    class NameOfClass():
+
+        def __init__(self, param1, param2):
+            self.param1 = param1
+            self.param2 = param2
+
+        def some_method(self):
+            # perform some action
+            print(self.param1)
