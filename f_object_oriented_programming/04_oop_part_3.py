@@ -1,6 +1,6 @@
 class Circle():
 
-    """ provide a redius to calculate the circumference and area of a Circle
+    """ provide a radius to calculate the circumference and area of a Circle
 
     Ex:
         var=Circle(radius=1)
